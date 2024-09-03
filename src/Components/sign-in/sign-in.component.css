@@ -1,0 +1,92 @@
+.container {
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.logo-container {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.logo {
+  width: 100px;
+  border-radius: 15px;
+}
+
+.signin-box {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-control {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.error-message {
+  color: red;
+  font-size: 12px;
+}
+
+.signin-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #f0c14b;
+  border: 1px solid #a88734;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.signin-button:hover {
+  background-color: #ddb347;
+}
+
+.help-section {
+  margin-top: 15px;
+  font-size: 12px;
+}
+
+.help-section a {
+  color: #0066c0;
+  text-decoration: none;
+}
+
+.create-account {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.create-account-button {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #adb1b8;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.create-account-button:hover {
+  background-color: #d7d9db;
+}
